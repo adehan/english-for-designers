@@ -1,6 +1,6 @@
 # About Me
 
-![](Icon 2.jpg)
+![A stylized icon](Icon 2.jpg)
 
 Hello! I'm Adela, a freelance digital illustrator currently based in Prague, Czech Republic.
 
