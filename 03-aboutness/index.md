@@ -1,3 +1,7 @@
+## Aboutness
+
+![A painting of a cluster of mushrooms with a little gnome and a snail sleeping on one of the mushroom caps.](Mushroom Study.png) 
+
 # About Me
 
 ![A stylized icon](Icon 2.jpg)
