@@ -1,4 +1,4 @@
-Impresssion — work by Adéla Hanáková
+<p style="text-align: center;"><strong>Impression - work by Ad&eacute;la Han&aacute;kov&aacute;</strong></p>
 
 ![A painting of a fly agaric.](Mushroom Study 2.png) 
 
@@ -6,7 +6,7 @@ Hello! I'm Adela, a freelance digital illustrator currently based in Prague, Cze
 
 [View Presentation](Presentation.pdf)
 
-Notes
+<p style="text-align: left;"><strong>Notes</strong></p>
 
 1. Creature design – how my art journey started.
 2. Environment art – creating fantasy environments and nature studies.
