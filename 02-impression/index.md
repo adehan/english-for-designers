@@ -2,7 +2,7 @@
 
 ![A painting of a fly agaric.](Mushroom Study 2.png) 
 
-Hello! I'm Adela, a freelance digital illustrator currently based in Prague, Czech Republic. My work revolves mostly around fantasy, colourful characters or creatures, and nature. My other passions include a love for storytelling, wandering the woodlands, petting dogs and napping under trees.
+Hello! I'm Adela, and this is my most recent illustration and design work, divided into areas I'm most interested in at the moment.
 
 [View Presentation](Presentation.pdf)
 
