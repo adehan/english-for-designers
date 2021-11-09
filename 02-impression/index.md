@@ -6,7 +6,7 @@ Hello! I'm Adela, a freelance digital illustrator currently based in Prague, Cze
 
 [View Presentation](Presentation.pdf)
 
-###### Notes
+## Notes
 
 1. Creature design – how my art journey started.
 2. Environment art – creating fantasy environments and nature studies.
