@@ -25,21 +25,23 @@ Vysoká škola kreativní komunikace (2019–2022)
 * My work was displayed at Toolbox Coworking in Turin, Italy, during the international festival Graphic Days in 2020, and in 2021 at Náplavka in Prague. 
 
 ## Skills
-  Illustration
-  Character design
-  Visual development
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe Indesign
-* Clip Studio Paint
-* Paint Tool SAI
-* Procreate
-* Figma
-* English - Certificate in Advanced English (C1)
+Illustration  
+Character design  
+Visual development  
+
+Adobe Photoshop  
+Adobe Illustrator  
+Adobe Indesign  
+Clip Studio Paint  
+Paint Tool SAI  
+Procreate  
+Figma  
+
+English - Certificate in Advanced English (C1)  
 
 ## Interests
-+ Animals and plants
-+ Foraging
-+ Photography
-+ Games
-+ Creating stories and characters
+Animals and plants  
+Foraging  
+Photography  
+Games  
+Creating stories and characters  
