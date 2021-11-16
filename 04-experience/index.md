@@ -37,7 +37,9 @@ Clip Studio Paint
 Paint Tool SAI  
 Procreate  
 Figma  
+Microsoft Office
 
+Teamwork
 English - Certificate in Advanced English (C1)  
 
 ## Interests
