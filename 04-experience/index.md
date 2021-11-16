@@ -26,8 +26,18 @@ Illustration
 Character design
 Visual development
 
-Adobe Photoshop & Illustrator
+Adobe Photoshop
+Adobe Illustrator
+Adobe Indesign
 Clip Studio Paint
 Paint Tool SAI
 Procreate
 Figma
+
+English - Certificate in Advanced English (C1)
+
+## Interests
+Animals and plants
+Photography
+Foraging
+Games
