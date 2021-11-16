@@ -9,12 +9,13 @@ Vysoká škola kreativní komunikace (2019–2022)
 
 ## Business Experience
 
-##### Freelance graphic designer
+##### Freelance graphic designer (2016-now)
 
-##### Freelance illustrator and character designer
+##### Freelance illustrator and character designer (2017-now)
 
-##### Notigo Agency s.r.o., graphic and character designer
-2021
+##### Notigo Agency s.r.o., graphic and character designer (2021)
+• Designed posters, roll-ups and merch for various clients
+• Designed a mascot for a company, and 
 
 ## Awards & Exhibitions
 ##### Posterheroes 2020 - Humans at Work
