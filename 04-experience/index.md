@@ -4,8 +4,8 @@ hanakovart@gmail.com • +420 737 585 411 • [Instagram](https://www.instagram.
 ## Education
 
 ##### Bachelor of graphic and media design
-Vysoká škola kreativní komunikace
-2019–2022
+Vysoká škola kreativní komunikace (2019–2022)
+• Graduated with a BA in graphic and media design
 
 ## Business Experience
 
