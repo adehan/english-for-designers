@@ -6,15 +6,17 @@ hanakovart@gmail.com • +420 737 585 411 • [Instagram](https://www.instagram.
 ##### Bachelor of graphic and media design
 Vysoká škola kreativní komunikace (2019–2022)
 • Graduated with a BA in graphic and media design
+• Studied: digital design, branding, 
 
 ## Business Experience
 
 ##### Freelance graphic designer (2016-now)
+* Designed posters for work-shops and lectures
 
 ##### Freelance illustrator and character designer (2017-now)
 
 ##### Notigo Agency s.r.o., graphic and character designer (2021)
-* Designed posters, roll-ups and merch for various clients
+* Designed posters, roll-ups and merch  
 * Designed a mascot for a company, and 
 
 ## Awards & Exhibitions
@@ -23,10 +25,9 @@ Vysoká škola kreativní komunikace (2019–2022)
 * My work was displayed at Toolbox Coworking in Turin, Italy, during the international festival Graphic Days in 2020, and in 2021 at Náplavka in Prague. 
 
 ## Skills
-* Illustration
-* Character design
-* Visual development
-
+  Illustration
+  Character design
+  Visual development
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe Indesign
@@ -34,12 +35,11 @@ Vysoká škola kreativní komunikace (2019–2022)
 * Paint Tool SAI
 * Procreate
 * Figma
-
 * English - Certificate in Advanced English (C1)
 
 ## Interests
-* Animals and plants
-* Foraging
-* Photography
-* Games
-* Creating stories and characters
++ Animals and plants
++ Foraging
++ Photography
++ Games
++ Creating stories and characters
