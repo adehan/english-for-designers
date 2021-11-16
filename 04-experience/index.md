@@ -8,16 +8,17 @@ Vysoká škola kreativní komunikace (2019–2022)
 • Graduated with a BA in graphic and media design
 • Studied: digital design, branding, 
 
-## Business Experience
+## Work Experience
 
 ##### Freelance graphic designer (2016-now)
 * Designed posters for work-shops and lectures
 
 ##### Freelance illustrator and character designer (2017-now)
+* Did freelance private illustration and character design commissions for various clients.
 
 ##### Notigo Agency s.r.o., graphic and character designer (2021)
 * Designed posters, roll-ups and merch  
-* Designed a mascot for a company, and 
+* Designed a mascot for a company, and helped managing their social media posts.
 
 ## Awards & Exhibitions
 ##### Posterheroes 2020 - Humans at Work
