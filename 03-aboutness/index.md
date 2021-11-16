@@ -2,7 +2,7 @@
 
 ![A painting of a cluster of mushrooms with a little gnome and a snail sleeping on one of the mushroom caps.](Mushroom Study.png) 
 
-[Case Study](https://adehan.github.io/english-for-designers/03-aboutness/case-study)
+[Case Study](case-study.md)
 
 ## About Me
 
