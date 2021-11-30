@@ -39,7 +39,7 @@ Procreate
 Figma  
 Microsoft Office
 
-Teamwork
+Teamwork  
 English - Certificate in Advanced English (C1)  
 
 ## Interests
