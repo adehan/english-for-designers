@@ -2,14 +2,14 @@
 
 ## Voice  
 
-* Voice is a part of my brand and should reflect what I want to achieve with my work. My art should focus mainly on nature, fantasy themes, characters and invoke the feeling of adventure but also warm coziness. Since I'm not presenting my work only on social media, but also myself as an artist, I want to share personal stories, interesting insight or introspections people might relate to, while also having fun with it and not taking myself too seriously.  
+* Voice is a part of my brand and should reflect what I want to achieve with my work. My art should focus mainly on nature, fantasy themes, characters and invoke the feeling of adventure but also warm cosiness. Since I'm not presenting my work only on social media, but also myself as an artist, I want to share personal stories, interesting insights or introspections people might relate to, while also having fun with it and not taking myself too seriously.  
 
 #### Voice characteristics  
 * Friendly, personal and genuine  
-* Calm playfullness  
+* Calm playfulness  
 
 ## Tone  
-* Slighly changes according to situation, but always stays informal and calm/positive.
+* Slightly changes according to situation but always stays informal and calm/positive.
 
 ## Style  
 
