@@ -6,8 +6,8 @@
 - View CV
 
 ## Work
-- [Character & Description](01-character-description/)
-- [Case Study: Posterheroes]()
+- [Character & Description](https://adehan.github.io/english-for-designers01-character-description/index.md)
+- [Case Study: Posterheroes](https://adehan.github.io/english-for-designers/03-aboutness/case-study.html)
 - [Impression](https://adehan.github.io/english-for-designers/02-impression/index)
 - [Experience](https://adehan.github.io/english-for-designers/04-experience/)
 - [Voice & Tone](https://adehan.github.io/english-for-designers/05-voice-tone/index)
