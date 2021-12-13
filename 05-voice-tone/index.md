@@ -9,7 +9,7 @@
 * Calm playfullness  
 
 ## Tone  
-* Slighly changes accordingly to situation but always stays informal and calm/positive  
+* Slighly changes according to situation but always stays informal and calm/positive  
 
 ## Style  
 
