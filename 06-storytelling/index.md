@@ -1,5 +1,5 @@
 # Storytelling
 
 <p align="center">
-![Sketch](Sketch.jpg)
+<![Sketch](Sketch.jpg)</p>
 </p>
