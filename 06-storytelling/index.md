@@ -1,5 +1,7 @@
 # Storytelling
 * "Stories are key to helping people decide if they want to work with you, invest in your project, or refer you to someone else."
+* The way I wanted to approach this assignment was connecting it to my thesis, which is about self-branding, and creating something that I could use for my own website in the future.
+* I came up with the idea of making a sort of short biography timeline that would be in the about section. It would give clients that visit my portfolio the option to learn something more about me beyond a short bio.
 
 #### Brainstorming
 Mention only moments throughout my life that are relevant to my artistic journey
