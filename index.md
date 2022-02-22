@@ -11,7 +11,7 @@
 - [Impression](https://adehan.github.io/english-for-designers/02-impression/index)
 - [Experience](https://adehan.github.io/english-for-designers/04-experience/)
 - [Voice & Tone](https://adehan.github.io/english-for-designers/05-voice-tone/index)
-- Storytelling (WIP)
+- [Storytelling](https://adehan.github.io/english-for-designers/06-storytelling/)
 
 ## Contact
 
