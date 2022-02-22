@@ -10,4 +10,4 @@ Mention only moments throughout my life that are relevant to my artistic journey
 5. Started studying illustration and character design on my own
 6. Got my first freelance work, started building my eshop
 
-[Presentation](Presentation.pdf)
+#### [Presentation](Presentation.pdf)
