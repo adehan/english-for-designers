@@ -13,3 +13,5 @@ Mention only moments throughout my life that are relevant to my artistic journey
 6. Where I'm now 
 
 ### [Presentation](Presentation.pdf)
+
+(Timeline.png)
