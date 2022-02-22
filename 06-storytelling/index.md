@@ -10,4 +10,4 @@ Mention only moments throughout my life that are relevant to my artistic journey
 5. Started studying art on my own with the help of the online art community
 6. Where I'm now 
 
-#### [Presentation](Presentation.pdf)
+### [Presentation](Presentation.pdf)
