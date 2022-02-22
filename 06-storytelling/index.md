@@ -16,4 +16,6 @@ Mentioning only moments throughout my life that are relevant to my artistic jour
 
 ### [Process](Presentation.pdf)
 
+# Timeline
+
 ![Timeline](Timeline.png)
