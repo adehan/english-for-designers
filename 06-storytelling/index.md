@@ -7,7 +7,7 @@ Mention only moments throughout my life that are relevant to my artistic journey
 2. School experience -> hated it, spent time doodling in class and writing stories because I was bored
 3. Struggles with art block -> Teachers and people around me were discouraging me from pursuing art as a career, which lead to a long art block
 4. Decided to be stubborn and pursue it anyway
-5. Started studying illustration and character design on my own
-6. Got my first freelance work, started building my eshop
+5. Started studying art on my own with the help of the online art community
+6. Where I'm now 
 
 #### [Presentation](Presentation.pdf)
