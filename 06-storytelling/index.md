@@ -14,4 +14,4 @@ Mention only moments throughout my life that are relevant to my artistic journey
 
 ### [Presentation](Presentation.pdf)
 
-(Timeline.png)
+![Timeline](Timeline.png)
