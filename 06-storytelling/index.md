@@ -13,3 +13,6 @@ Mention only moments throughout out my life that are relevant to my artistic jou
 9. That was only the beginning. There's so much to be done!
 
 <div style="text-align:center"><img src="Sketch.jpg" /></div>.
+
+
+[Presentation](presentation.pdf)
