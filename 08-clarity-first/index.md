@@ -8,9 +8,9 @@
 - [Inspiration](#inspiration)
 - [Warm-Up](#warm-up)
 
-# Personal Brand
+# Personal Brand 🌱
 
-## Summary
+## Summary 🌿
 
 My project focuses on the process of creating a personal brand as a graphic designer or an illustrator. A personal brand is a form of marketing that an individual uses to create a uniform public image that demonstrates their values. My thesis should inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey. 
 
@@ -21,7 +21,7 @@ My project focuses on the process of creating a personal brand as a graphic desi
   <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
 </details>
 
-## Mindmap
+## Mindmap 🌷
 
 - **Planning**
   - Talking about one of the most important stages in creating your own brand - planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
@@ -66,7 +66,7 @@ My project focuses on the process of creating a personal brand as a graphic desi
 
 self-branding, self-brand, branding, marketing, advertisement, graphic design, illustration
 
-## Key Points
+## Key Points 🍃
 
 <!-- Key points; aim for **30–60 words** each. -->
 
@@ -76,17 +76,13 @@ self-branding, self-brand, branding, marketing, advertisement, graphic design, i
 4. Findings (highlight outcome of research):
 5. Conclusions (significance/success of study to theory/practical/society):
 
-## References
+## References 🌸
 
 <!-- Add reference list. See Reference List Style -->
 
 - …
 - …
 - …
-
-## Inspiration
-
-<!-- Optional section, see https://evajunkova.github.io/english-for-designers/08-clarity-first/#inspiration -->
 
 ## Warm-Up
 
