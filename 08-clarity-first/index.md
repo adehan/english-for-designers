@@ -66,7 +66,7 @@ My project focuses on the process of creating a personal brand as a graphic desi
 
 self-branding, self-brand, branding, marketing, advertisement, graphic design, illustration
 
-## Key Points 🍃
+## Key Points 🌾
 
 <!-- Key points; aim for **30–60 words** each. -->
 
@@ -84,7 +84,7 @@ self-branding, self-brand, branding, marketing, advertisement, graphic design, i
 - …
 - …
 
-## Warm-Up 🌾
+## Warm-Up 🍃
 
 In class exercise: Explore key points with the PAR method, then write a statement.
 
