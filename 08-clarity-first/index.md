@@ -27,14 +27,14 @@ My project focuses on the process of creating a personal brand as a graphic desi
 Talking about one of the most important stages in creating your own brand - planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
  
   - ***Subcategories:***
-   - business and art
-   - career goals
-   - freelance vs in-house
-   - personal mission statement
-   - creative niche
-   - target audience
-   - market analysis
-   - inspiration
+    - business and art
+    - career goals
+    - freelance vs in-house
+    - personal mission statement
+    - creative niche
+    - target audience
+    - market analysis
+    - inspiration
 
 **Branding**
 Everything having to do with actual branding
