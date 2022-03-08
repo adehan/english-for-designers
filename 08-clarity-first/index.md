@@ -16,7 +16,7 @@ My project focuses on the process of creating a personal brand as a graphic desi
 
 <details>
   <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
+  <img alt="Mindmap." src="./img/thesis-mind-map.png">
 </details>
 
 ## Mindmap 🌷
