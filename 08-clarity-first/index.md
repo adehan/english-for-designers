@@ -15,7 +15,6 @@ My project focuses on the process of creating a personal brand as a graphic desi
 ## Mindmap 🌷
 
 ![Mindmap](thesis-mind-map.png)
-
 **Planning**
  - Talking about one of the most important stages in creating your own brand – planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
  
