@@ -8,7 +8,7 @@
 - [Inspiration](#inspiration)
 - [Warm-Up](#warm-up)
 
-# Personal Brand 🌱
+# Personal Brand
 
 ## Summary 🌿
 
