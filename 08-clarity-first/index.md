@@ -23,8 +23,8 @@ My project focuses on the process of creating a personal brand as a graphic desi
 
 ## Mindmap 🌷
 
-- **Planning**
-  - Talking about one of the most important stages in creating your own brand - planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
+**Planning**
+Talking about one of the most important stages in creating your own brand - planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
  
   - ***Subcategories:***
    - business and art
@@ -36,8 +36,8 @@ My project focuses on the process of creating a personal brand as a graphic desi
    - market analysis
    - inspiration
 
-- **Branding**
-  - Everything having to do with actual branding
+**Branding**
+Everything having to do with actual branding
   
   - ***Subcategories:***
   - what is a brand
@@ -47,8 +47,8 @@ My project focuses on the process of creating a personal brand as a graphic desi
   - visual identity (moodboard, art style, logo, typeface, colour, mascot)
   - product
   
-- **Marketing tools**
-  - Focusing on individual marketing tools
+**Marketing tools**
+Focusing on individual marketing tools
   
   - ***Subcategories:***
   - print (business card, invoice)
