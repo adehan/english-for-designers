@@ -3,6 +3,7 @@
 - [Keywords](#keywords)
 - [Key Points](#key-points)
 - [Warm-Up](#warm-up)
+- [Showcase](#showcase)
 
 # Personal Brand
 
@@ -39,3 +40,7 @@ self-branding, self-brand, branding, marketing, advertisement, graphic design, i
 1. Problem: Creative people focus too much on art and forget about the business side of things like marketing and branding (including me).
 2. Action: Do a research on this topic using mainly publications by professionals working in the industry.
 3. Result: Use the information and tips to write a concise theoretical part and create a visual identity and marketing strategy for myself. 
+
+## Showcase
+
+### [Showcase of my practical part](Showcase.pdf)
