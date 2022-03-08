@@ -76,7 +76,7 @@ self-branding, self-brand, branding, marketing, advertisement, graphic design, i
 4. Findings (highlight outcome of research):
 5. Conclusions (significance/success of study to theory/practical/society):
 
-## References 🌸
+## References ☘️
 
 <!-- Add reference list. See Reference List Style -->
 
@@ -84,7 +84,7 @@ self-branding, self-brand, branding, marketing, advertisement, graphic design, i
 - …
 - …
 
-## Warm-Up
+## Warm-Up 🌾
 
 In class exercise: Explore key points with the PAR method, then write a statement.
 
