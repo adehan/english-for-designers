@@ -12,14 +12,9 @@
 
 My project focuses on the process of creating a personal brand as a graphic designer or an illustrator. A personal brand is a form of marketing that an individual uses to create a uniform public image that demonstrates their values. My thesis should inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey. 
 
-<!-- Disclosure widget, HTML in Markdown -->
-
-<details>
-  <summary><b>Mind Map</b></summary>
-  <img alt="Mindmap." src="./img/thesis-mind-map.png">
-</details>
-
 ## Mindmap 🌷
+
+![Mindmap](thesis-mind-map.png)
 
 **Planning**
 Talking about one of the most important stages in creating your own brand - planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
