@@ -10,7 +10,7 @@
 
 # Personal Brand
 
-## Summary 🌿
+## Summary 💐
 
 My project focuses on the process of creating a personal brand as a graphic designer or an illustrator. A personal brand is a form of marketing that an individual uses to create a uniform public image that demonstrates their values. My thesis should inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey. 
 
@@ -76,7 +76,7 @@ self-branding, self-brand, branding, marketing, advertisement, graphic design, i
 4. Findings (highlight outcome of research):
 5. Conclusions (significance/success of study to theory/practical/society):
 
-## References ☘️
+## References 🌿
 
 <!-- Add reference list. See Reference List Style -->
 
