@@ -37,17 +37,30 @@ My project focuses on the process of creating a personal brand as a graphic desi
    - inspiration
 
 - **Branding**
-  - d
+  - Everything having to do with actual branding
   
   - ***Subcategories:***
-  - What is a brand
-  - Identity
-  - Voice 
-  - Storytelling
-  - Visual identity (moodboard, art style, 
+  - what is a brand
+  - identity
+  - voice 
+  - storytelling
+  - visual identity (moodboard, art style, logo, typeface, colour, mascot)
+  - product
   
-- **Marketing**
-  - …
+- **Marketing tools**
+  - Focusing on individual marketing tools
+  
+  - ***Subcategories:***
+  - print (business card, invoice)
+  - portfolio
+  - e-commerce
+  - social media
+  - newsletter
+  - educational materials
+  - publications
+  - exhibitions 
+  - networking
+  - action plan
 
 ## Key Points
 
