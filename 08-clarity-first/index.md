@@ -10,50 +10,20 @@
 
 ## Summary 💐
 
-My project focuses on the process of creating a personal brand as a graphic designer or an illustrator. A personal brand is a form of marketing that an individual uses to create a uniform public image that demonstrates their values. My thesis should inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey. 
+My project focuses on the process of creating a personal brand as a graphic designer or an illustrator. A personal brand is a form of marketing that an individual uses to create a unique public image that demonstrates their values. My thesis should inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey. 
 
 ## Mindmap 🌷
 
 ![Mindmap](thesis-mind-map.png)
 
 **Planning**
-Talking about one of the most important stages in creating your own brand - planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
+ - Talking about one of the most important stages in creating your own brand – planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
  
-  - ***Subcategories:***
-    - business and art
-    - career goals
-    - freelance vs in-house
-    - personal mission statement
-    - creative niche
-    - target audience
-    - market analysis
-    - inspiration
-
 **Branding**
-Everything having to do with actual branding
-  
-  - ***Subcategories:***
-    - what is a brand
-    - identity
-    - voice 
-    - storytelling
-    - visual identity (moodboard, art style, logo, typeface, colour, mascot)
-    - product
+ - Everything having to do with actual branding
   
 **Marketing tools**
-Focusing on individual marketing tools
-  
-  - ***Subcategories:***
-    - print (business card, invoice)
-    - portfolio
-    - e-commerce
-    - social media
-    - newsletter
-    - educational materials
-    - publications
-    - exhibitions 
-    - networking
-    - action plan
+ - Focusing on individual marketing tools
 
 ## Keywords 🌻
 
