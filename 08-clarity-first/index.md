@@ -1,12 +1,12 @@
 <!-- Table of Contents, in-page navigation -->
 
-- [Summary](#summary)
-- [Mind Map](#mind-map)
-- [Keywords](#keywords)
-- [Key Points](#key-points)
-- [References](#references)
-- [Inspiration](#inspiration)
-- [Warm-Up](#warm-up)
+- [Summary](##summary)
+- [Mind Map](##mind-map)
+- [Keywords](##keywords)
+- [Key Points](##key-points)
+- [References](##references)
+- [Inspiration](##inspiration)
+- [Warm-Up](##warm-up)
 
 # Personal Brand
 
@@ -40,27 +40,27 @@ Talking about one of the most important stages in creating your own brand - plan
 Everything having to do with actual branding
   
   - ***Subcategories:***
-  - what is a brand
-  - identity
-  - voice 
-  - storytelling
-  - visual identity (moodboard, art style, logo, typeface, colour, mascot)
-  - product
+    - what is a brand
+    - identity
+    - voice 
+    - storytelling
+    - visual identity (moodboard, art style, logo, typeface, colour, mascot)
+    - product
   
 **Marketing tools**
 Focusing on individual marketing tools
   
   - ***Subcategories:***
-  - print (business card, invoice)
-  - portfolio
-  - e-commerce
-  - social media
-  - newsletter
-  - educational materials
-  - publications
-  - exhibitions 
-  - networking
-  - action plan
+    - print (business card, invoice)
+    - portfolio
+    - e-commerce
+    - social media
+    - newsletter
+    - educational materials
+    - publications
+    - exhibitions 
+    - networking
+    - action plan
 
 ## Keywords 🌻
 
@@ -70,11 +70,11 @@ self-branding, self-brand, branding, marketing, advertisement, graphic design, i
 
 <!-- Key points; aim for **30–60 words** each. -->
 
-1. Background/importance of topic:
-2. Purpose/hypothesis (thesis or statement of problem):
-3. Research — design/methodology/approach including procedures/data/observations:
-4. Findings (highlight outcome of research):
-5. Conclusions (significance/success of study to theory/practical/society):
+1. Background/importance of the topic: The topic of self-branding is crucial because it allows us as artists to show our skills and qualities, what we're like as individuals, and it defines what is important to us.
+3. Purpose/hypothesis (thesis or statement of the problem): I want to tackle a topic that a lot of schools (including ours) fail to explore and properly teach their students. Artists generally have a problem with self-marketing and thus getting clients and building their career, which is where the stereotype of a poor artist that makes no money comes from. My project should help me and others to learn more about self-marketing and how to make it work for us as artists.
+5. Research — design/methodology/approach including procedures/data/observations: I chose several books by professionals that I'll be using mainly for the theoretical part of my thesis. Some of my favourites are What They Don't Teach You in Art School by Will Terry, I'd Rather Be in the Studio!: The Artist's No-Excuse Guide to Self-Promotion by Alyson B. Stanfield, Designing Brand Identity: An Essential Guide for the Whole Branding Team by Alina Wheeler, Find Your Artistic Voice: The Essential Guide to Working Your Creative Magic by Lisa Congdon, and others.
+5. Findings (highlight outcome of research): 
+6. Conclusions (significance/success of study to theory/practical/society): I hope to finish my own final visual identity and have concise theoretical research about this topic ready for other people and myself.
 
 ## References 🌿
 
