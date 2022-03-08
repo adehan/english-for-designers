@@ -26,7 +26,7 @@ My project focuses on the process of creating a personal brand as a graphic desi
 - **Planning**
   - Talking about one of the most important stages in creating your own brand - planning. It contains discussion about how to define your career goals, whether to focus on freelance vs in-house, how to choose your target audience etc. 
  
-- ***Subcategories:***
+  - ***Subcategories:***
   - business and art
   - career goals
   - freelance vs in-house
@@ -39,7 +39,7 @@ My project focuses on the process of creating a personal brand as a graphic desi
 - **Branding**
   - d
   
-- ***Subcategories:***
+  - ***Subcategories:***
   - What is a brand
   - Identity
   - Voice 
