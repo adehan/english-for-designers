@@ -1,12 +1,10 @@
-<!-- Table of Contents, in-page navigation -->
-
-- [Summary](##summary)
-- [Mind Map](##mind-map)
-- [Keywords](##keywords)
-- [Key Points](##key-points)
-- [References](##references)
-- [Inspiration](##inspiration)
-- [Warm-Up](##warm-up)
+- [Summary](#summary)
+- [Mind Map](#mind-map)
+- [Keywords](#keywords)
+- [Key Points](#key-points)
+- [References](#references)
+- [Inspiration](#inspiration)
+- [Warm-Up](#warm-up)
 
 # Personal Brand
 
