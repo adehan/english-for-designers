@@ -24,6 +24,11 @@ graphic design, illustration, online marketig, personal branding, visual identit
 
 ## Main Text
 
+Being an artist, especially freelance, requires us to take on multiple jobs typical for a small business. Creative director, marketing director, manager, secretary, accountant, administrative assistant... The list goes on and on. Because most art schools focus only on the creative process and not so much on teaching their students how to make art your career, it leads to many graduates having trouble with entering the creative industry or getting contracts. 
+There are, in general, a lot of amazing artists out there who could easily make a living with their art but aren’t because art buyers don’t know they exist. Things like marketing is a key part of being an artist, from maintaining your social media and building your portfolio to knowing how to reach a wider audience.
+The purpose of this paper is to highlight and confirm the importance of marketing skills and self-branding. The main source of information consists of books written by professionals working in creative fields, who provide useful advice and practices to beginner and experienced artists and art students alike.
+Applying this knowledge, I will show the creation of the concept of my own brand and the use of marketing tools to progress my career.
+
 <!--
 Consider these four sections:
 
@@ -36,9 +41,6 @@ Consider these four sections:
 ## References
 
 Battenfield, Jackie. The Artist's Guide: How to Make a Living Doing What You Love. Hachette Books, 2009.
-Oldham, Craig. Oh, Sh*t... What Now?: Honest Advice for New Graphic Designers. Laurence King Publishing, 2018.
-Stanfield, A. B. I'd Rather Be in the Studio!: The Artist's No-Excuse Guide to Self-Promotion. Pentas Press, 2011.
-Stephens, S. MW. Big Book of Self Promotion. HarperCollins, 2009.
 Terry, Will. What They Don't Teach in Art School: An Illustrator's Guide to Making Money in the Real World. Giggledesk, 2021.
 
 ## Images
