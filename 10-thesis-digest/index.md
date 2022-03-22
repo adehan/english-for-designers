@@ -4,7 +4,7 @@ Author Name(s): Adéla Hanáková
 
 E-mail(s): adela-hanakova@seznam.cz
 
-Acknowledgement(s): I would like to thank the following people, without whom I would not have been able to complete this paper. Most importantly, my advisor, doc. Joachim Rindler, who took the time to guide me and not only encourage, but share insightful comments and critiques about my work. His guidance carried me through all the stages and difficulties of working on this project. Besides my advisor, I would like to thank my family and friends for all the support you have shown me through working on my thesis over the past few months. 
+Acknowledgement(s): I would like to thank the following people, without whom I would not have been able to complete this paper. Most importantly, my advisor, doc. Joachim Rindler, who took the time to guide me and not only encourage, but share insightful comments and critiques about my work. His guidance carried me through all the stages and difficulties of working on this project. Besides my advisor, I would like to thank my family and friends for all the support they have shown me through working on my thesis over the past few months. 
 
 Data Accessibility/Availability Statement: There is no data archived.
 
@@ -36,7 +36,11 @@ Consider these four sections:
 
 ## References
 
-<!-- Use an unordered list, arranged alphabetically by author’s surname.  -->
+Battenfield, Jackie. The Artist's Guide: How to Make a Living Doing What You Love. Hachette Books, 2009.
+Oldham, Craig. Oh, Sh*t... What Now?: Honest Advice for New Graphic Designers. Laurence King Publishing, 2018.
+Stanfield, A. B. I'd Rather Be in the Studio!: The Artist's No-Excuse Guide to Self-Promotion. Pentas Press, 2011.
+Stephens, S. MW. Big Book of Self Promotion. HarperCollins, 2009.
+Terry, Will. What They Don't Teach in Art School: An Illustrator's Guide to Making Money in the Real World. Giggledesk, 2021.
 
 ## Images
 
