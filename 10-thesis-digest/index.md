@@ -16,8 +16,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-<!-- Abstract that introduces the question being investigated by the study and briefly summarizes the
-findings. Less than 75 words. -->
+This paper focuses on the process of creating a personal brand of a graphic designer or an illustrator as a form of marketing that an individual uses to create a unique public image that demonstrates their values. The main aim is to inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey.
 
 ## Keywords
 
