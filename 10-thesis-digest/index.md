@@ -16,11 +16,11 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-This paper focuses on the process of creating a personal brand of a graphic designer or an illustrator as a form of marketing that an individual uses to create a unique public image that demonstrates their values. The main aim is to inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey.
+This paper focuses on the process of creating a personal brand of a graphic designer or an illustrator and its use as a form of marketing an individual uses to create a unique public image that demonstrates their values. The main aim is to inform the reader on which terms to familiarize themselves with, where to start and which tools they can choose from and use to help them with their creative journey.
 
 ## Keywords
 
-graphic design, illustration, online marketig, personal branding, visual identity
+graphic design, illustration, online marketing, personal branding, self-promotion, visual identity
 
 ## Main Text
 
