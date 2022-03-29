@@ -45,5 +45,5 @@ Battenfield, Jackie. The Artist's Guide: How to Make a Living Doing What You Lov
 Terry, Will. What They Don't Teach in Art School: An Illustrator's Guide to Making Money in the Real World. Giggledesk, 2021.
 
 ## Images
-
+[Showcase](Showcase.pdf)
 <!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
