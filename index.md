@@ -13,7 +13,7 @@
 - [Voice & Tone](https://adehan.github.io/english-for-designers/05-voice-tone/index)
 - [Storytelling](https://adehan.github.io/english-for-designers/06-storytelling/)
 - [Thesis](https://adehan.github.io/english-for-designers/11-presentation/)
-- [Year Review])(https://adehan.github.io/english-for-designers/year-review/)
+- [Year Review](https://adehan.github.io/english-for-designers/year-review/)
 
 ## Contact
 
