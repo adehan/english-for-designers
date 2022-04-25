@@ -12,6 +12,7 @@
 - [Experience](https://adehan.github.io/english-for-designers/04-experience/)
 - [Voice & Tone](https://adehan.github.io/english-for-designers/05-voice-tone/index)
 - [Storytelling](https://adehan.github.io/english-for-designers/06-storytelling/)
+- [Thesis](https://adehan.github.io/english-for-designers/11-presentation/)
 
 ## Contact
 
