@@ -13,7 +13,7 @@
 - The importance of storytelling, voice and tone. This is something that I think we haven't talked about much in other classes.
 
 **4. What was the most memorable activity/assignment from this year?**
-  My favourite assignment was probably the first one when we were making the letter because it was the most creative.
+- My favourite assignment was probably the first one when we were making the letter because it was the most creative.
 
 **5. What is something you accomplished this year that you are proud of?**
 - Finishing the thesis is a big one. It's FAR from perfect, but I'm still proud of it. I haven't really written longer texts in Czech since finishing middle school, so it was very difficult for me.
