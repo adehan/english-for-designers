@@ -5,7 +5,7 @@
 - Using Slack for communication, assignments and sharing interesting links
 
 **2. What did you like least about this subject?**
-- Working with Github. Because I'm not familiar with coding, it was a struggle to learn how to use it, and I feel like I spent a lot of unnecessary time trying to figure it out. Even now, I still don't feel comfortable using it. I'd prefer if there was an alternative for people who don't want to use Github next time.
+- Working with Github – Because I'm not familiar with coding, it was a struggle to learn how to use it, and I feel like I spent a lot of unnecessary time trying to figure it out. Even now, I still don't feel comfortable using it. I'd prefer if there was an alternative for people who don't want to use Github next time. Then I would be much more excited about working on assignments :D
 
 **3. What were the top 3 things you learned this year?**
 - v
