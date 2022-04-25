@@ -3,7 +3,7 @@
 ## About
 
 - [My story](https://adehan.github.io/english-for-designers/03-aboutness/index)
-- View CV
+- [View CV](https://adehan.github.io/english-for-designers/04-experience/)
 
 ## Work
 - [Character & Description](https://github.com/adehan/english-for-designers/blob/main/01-character-description/index.md)
