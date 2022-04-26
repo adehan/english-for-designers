@@ -30,7 +30,7 @@
 - Keeping an eye on the deadlines.
 
 **9. What is one thing I could have done better as a teacher this year?**
-- Encourage more discussions in the classroom.
+- Encourage more discussions.
 
 **10. What advice would you give to students going into this subject next year?**
-- To not miss the classes because they're very helpful.
+- To not miss the classes because they're very helpful!!
